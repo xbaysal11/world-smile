@@ -1,0 +1,168 @@
+.col-sm-6 {
+    height: 355px;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important;
+}
+
+#h-title {
+    color: gray;
+    font-family: Zilla Slab;
+    font-size: 22px;
+}
+
+#help {
+    color: gray;
+    font-family: Zilla Slab;
+    font-size: 20px;
+}
+/* single face age*/
+
+.sfa {
+    background: #F7464A;
+    display: inline-block;
+
+    padding: .45rem 1.13rem;
+    color: white;
+}
+/* single faced gender  */
+
+.sfg {
+    background: #46BFBD;
+    display: inline-block;
+
+    padding: .45rem 1.13rem;
+    color: white;
+}
+/*single faced smile   */
+
+.sfs {
+    background: #FDB45C;
+    display: inline-block;
+
+    padding: .45rem 1.13rem;
+    color: white;
+    margin: 0px;
+}
+/* multiple faced age */
+
+.mfa {
+    background: #F7464A;
+    display: inline-block;
+
+    padding: .45rem 1.13rem;
+    color: white;
+}
+/*multiple male gender */
+
+.mmg {
+    background: #46BFBD;
+    display: inline-block;
+
+    padding: .45rem 1.13rem;
+    color: white;
+}
+/* multiple female gender */
+
+.mfg {
+    background: #46BFBD;
+    display: inline-block;
+    padding: .45rem 1.13rem;
+    padding-left: 0px;
+    color: white;
+}
+/* multiple smile */
+
+.ms {
+    background: #FDB45C;
+    display: inline-block;
+    padding: .45rem 1.13rem;
+    color: white;
+    margin: 0px;
+}
+/* Location */
+
+.lightbox {
+    max-width: 333px;
+    max-height: 222px;
+    width: 100%;
+    height: 222px;
+    object-fit: fill;
+}
+
+.fa-lg {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%;
+    margin: 2px;
+    color: snow;
+}
+
+.form-control {
+    margin-bottom: 5px;
+}
+
+.query-submit {
+    margin-bottom: 5px;
+}
+
+.next {
+    position: fixed;
+    left: 90%;
+    bottom: 50%;
+    display: none;
+}
+
+.charts {
+
+    display: none;
+    background: white;
+    border-radius: 15px;
+    margin-bottom: 50px;
+
+}
+
+.gallery-container {
+    margin-top: -33px;
+}
+
+.modal .modal-header {
+    border-bottom: none;
+    position: relative
+}
+
+.modal .modal-header .btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+.modal .modal-footer {
+    border-top: none;
+    padding: 0
+}
+
+.modal .modal-footer .btn-group>.btn:first-child {
+    border-bottom-left-radius: 0
+}
+
+.modal .modal-footer .btn-group>.btn:last-child {
+    border-top-right-radius: 0;
+}
+
+.navbar-toggle span {
+    background: brown;
+}
+
+
+.navbar-toggle {
+    background: #f7f7f7;
+}
+
+#page-selection{
+    display: none;
+}
